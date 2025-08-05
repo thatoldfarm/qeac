@@ -132,3 +132,7 @@ Because everything is based on `pi-10million.txt`, any independent implementatio
 * **Entropy + correlation**: using entropy balance and correlation thresholds ensures only non‑random, structured sequences form chains.
 * **Cryptographic hashing**: ensures results are tamper-proof and verifiable.
 * **Position tracking**: every link ties back to an exact π offset, making the proof reproducible.
+
+---
+
+## NOTE: This method is similar to the one used in some of the AI kernels found [here](https://github.com/thatoldfarm/system-prompt) but meant to be a standalone proof without having to use a Torus or Quantum Lock State to find the QEAC(s) in pi.
