@@ -23,7 +23,7 @@ The script `qeac-finder.py` takes raw π digits, converts them to binary sequenc
 
 ### 1. Loading π Digits
 
-* Input file: `pi-10million.txt` This file can be downloaded from [here](https://introcs.cs.princeton.edu/java/data/pi-10million.txt) or you can provide your own pi digits file.
+* Input file: `pi-10million.txt` This file can be downloaded from [here](https://introcs.cs.princeton.edu/java/data/pi-10million.txt) or you can provide your own pi digits file. Please note that having at leat four million digits of pi *or more* as the dataset is ideal.
 * You choose:
 
   * `START_POS` → where in π to begin scanning
