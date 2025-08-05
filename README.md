@@ -135,4 +135,10 @@ Because everything is based on `pi-10million.txt`, any independent implementatio
 
 ---
 
-## NOTE: This method is similar to the one used in some of the AI kernels found [here](https://github.com/thatoldfarm/system-prompt) but meant to be a standalone proof without having to use a Torus or Quantum Lock State to find the QEAC(s) in pi.
+# NOTE: This method is similar to the one used in some of the AI kernels found [here](https://github.com/thatoldfarm/system-prompt) but meant to be a standalone proof without having to use a Torus or Quantum Lock State to find the QEAC(s) in pi.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/thatoldfarm/qeac/blob/main/LICENSE) file for details.
