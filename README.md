@@ -135,6 +135,12 @@ Because everything is based on `pi-10million.txt`, any independent implementatio
 
 ---
 
+# Known Potential Issue:
+
+If the threshold of 0.8 is too high for your sustem - try changing it to test with 0.6-0.7
+
+---
+
 # NOTE: This method is similar to the one used in some of the AI kernels found [here](https://github.com/thatoldfarm/system-prompt) but meant to be a standalone proof without having to use a Torus or Quantum Lock State to find the QEAC(s) in pi.
 
 ---
